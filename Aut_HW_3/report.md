@@ -8,7 +8,7 @@
 Данные используемые в данной работе взяты с сайта Национального центра биотехнической информации США [NCBI](https://www.ncbi.nlm.nih.gov/) в разделе посвященном [SARS CoV 2](https://www.ncbi.nlm.nih.gov/sars-cov-2/). Все данные представлены в формате .fasta
 
 #### Скачивание:
-Последовательности SARS-CoV-2 для следующих стран: Австралия (OP604177.2), Беларусь (MW674675.1), Бразилия (OP898563.1), Китай (OP804248.1), Япония (OP921820.1), ЮАР (OP862887.1), Великобритания (OP777347.1), США (OP984210.1), Вьетнам (OP748423.1), а также SARS-CoV-1 (AY394995.1), все последовательности были взяты с NCBI
+Последовательности SARS-CoV-2 для следующих стран: [Австралия](countries/Australia.fasta) (OP604177.2), [Беларусь](countries/Belarus.fasta) (MW674675.1), [Бразилия](countries/Brazil.fasta)(OP898563.1), [Китай](countries/China.fasta) (OP804248.1), [Япония](countries/Japan.fasta) (OP921820.1), [ЮАР](countries/South_Africa.fasta) (OP862887.1), [Великобритания](countries/UK.fasta) (OP777347.1), [США](countries/USA.fasta) (OP984210.1), [Вьетнам](countries/Vietnam.fasta) (OP748423.1), а также [SARS-CoV-1](countries/SARS_Cov_1.fasta) (AY394995.1), все последовательности были взяты с NCBI
 
 ### Обработка:
 
