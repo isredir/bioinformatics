@@ -45,17 +45,18 @@
 
 Найдем мутации в Великобритании относительно Китая:
 
-![](mutations\MUT1.png)
+![](mutations/MUT1.png)
 
-![](mutations\MUT2.png)
+![](mutations/MUT2.png)
 
-![](mutations\MUT3.png)
+![](mutations/MUT3.png)
 
-![](mutations\MUT4.png)
+![](mutations/MUT4.png)
 
-![](mutations\MUT5.png)
+![](mutations/MUT5.png)
 
 Первые три из рассмотренных мутаций попадают в **orf1ab polyprotein**, четвертая мутация (с координатой 24969) произошла в некодирующем участке **S**, а пятая (с координатой 28240) Произошла в конце участка **ORF7b** - начале участка **N**.
 
 Эти выводы можно сделать, рассмотрев разметку генома
-![](mutations\map.png)
+
+![](mutations/map.png)
