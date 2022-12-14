@@ -13,7 +13,7 @@
 ### Обработка:
 
 ##### Построение деревьев
-Выровнием последовательности алгоритмом Muscle с cluster method: UPGMA, получим [выровненные последовательности]([[https://drive.google.com/file/d/1kc6_OVghl_PA2pgcyYUtXgKXkGD4Fk4z/view?usp=drivesdk](https://github.com/isredir/bioinformatics/blob/main/Aut_HW_3/sequences_countries.meg)](https://github.com/isredir/bioinformatics/blob/main/Aut_HW_3/sequences_countries.meg))
+Выровнием последовательности алгоритмом Muscle с cluster method: UPGMA, получим [выровненные последовательности](sequences_countries.meg)
 Далее построим деревья различными методами - Maximum Likelihood(ML), Neighbor Joining(NJ), Maximum Parsimony, UPGMA.
 
 **Maximum Likehood**
