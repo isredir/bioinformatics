@@ -28,7 +28,7 @@
 
 
 **Maximum Parsimony**
-![](Tree/Parsimony.png)
+![](trees/Parsimony.png)
 Заметим, что ближе всего к SARS-CoV-1 Китай, а дальше всего Великобритания.
 
 
